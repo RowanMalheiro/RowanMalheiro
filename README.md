@@ -5,7 +5,7 @@ I currently am studying Computer Science at McGill University and am expected to
 
 I will be working for Hydro Ottawa until December '25.
 
-My current projects are primarily in private repositories, but they concern my work and another project involving modding Geometry Dash in c++.
+My current projects are primarily in private repositories, but they concern my work and another large project involving modding Geometry Dash in c++.
 
 <!--
 **RowanMalheiro/RowanMalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
